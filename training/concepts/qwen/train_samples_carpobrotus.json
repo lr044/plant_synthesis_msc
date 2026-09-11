@@ -1,0 +1,28 @@
+[
+    {
+        "__version": 0,
+        "enabled": true,
+        "prompt": "a detailed realistic photograph of z47mfpwjhs",
+        "negative_prompt": "",
+        "height": 512,
+        "width": 512,
+        "frames": 1,
+        "length": 10.0,
+        "seed": 42,
+        "random_seed": false,
+        "diffusion_steps": 25,
+        "cfg_scale": 4.0,
+        "noise_scheduler": "EULER",
+        "text_encoder_1_layer_skip": 0,
+        "text_encoder_1_sequence_length": null,
+        "text_encoder_2_layer_skip": 0,
+        "text_encoder_2_sequence_length": null,
+        "text_encoder_3_layer_skip": 0,
+        "text_encoder_4_layer_skip": 0,
+        "transformer_attention_mask": false,
+        "force_last_timestep": false,
+        "sample_inpainting": false,
+        "base_image_path": "",
+        "mask_image_path": ""
+    }
+]

@@ -1,0 +1,16 @@
+# Image data and model weights are distributed via the Zenodo archive, not git.
+data/raw/**
+data/train/**
+data/reference/**
+data/backgrounds/tiles/**
+outputs/lora/**
+outputs/generated/**
+outputs/generated_baseline/**
+outputs/structure_first/**
+outputs/workspace/**
+outputs/workspace-cache/**
+!**/.gitkeep
+!**/README.md
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

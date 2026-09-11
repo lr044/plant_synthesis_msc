@@ -1,0 +1,24 @@
+# Evaluation and data preparation. Training is run through OneTrainer, which
+# installs its own pinned requirements; see training/README.md.
+torch>=2.1
+torchvision
+diffusers>=0.31
+transformers>=4.44
+accelerate
+peft
+safetensors
+clean-fid
+torch-fidelity
+torchmetrics
+lpips
+pybioclip
+open_clip_torch
+opencv-python
+pillow
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+requests
+tqdm

@@ -1,0 +1,79 @@
+path	kind	outputs	bytes
+.gitignore	-		358
+README.md	md		4126
+data/README.md	md		882
+docs/configs.md	md		2449
+docs/gaps.md	md		5714
+eval/fid_kid.ipynb	ipynb	731	244108
+eval/per_image.ipynb	ipynb	87	501552
+eval/trait_probe.ipynb	ipynb	20	80815
+outputs/README.md	md		765
+paths.py	py		1735
+prep/build_refset.ipynb	ipynb	9	2315938
+prep/crop_bboxes.ipynb	ipynb	9	11127610
+prep/fetch_inat.ipynb	ipynb	1	4068
+prep/pool_species.ipynb	ipynb	12	2268487
+requirements.txt	txt		375
+structure/build_plant.py	py		37479
+structure/build_species.py	py		37014
+structure/exploratory/extract_backgrounds.py	py		10750
+structure/exploratory/gen_composite.py	py		14224
+structure/gen_flat.py	py		7164
+structure/gen_flat_lora.py	py		12601
+structure/pipeline.ipynb	ipynb	19	2077855
+structure/prompts.ipynb	ipynb	8	1024761
+structure/struct_lora.ipynb	ipynb	7	2163828
+tools/check_refs.py	py		4083
+tools/expand_paths.py	py		1419
+training/concepts/flux2/train_concepts_achillea.json	json		2205
+training/concepts/flux2/train_concepts_carpobrotus.json	json		2216
+training/concepts/flux2/train_concepts_eryngium.json	json		2206
+training/concepts/flux2/train_samples_achillea.json	json		832
+training/concepts/flux2/train_samples_carpobrotus.json	json		832
+training/concepts/flux2/train_samples_eryngium.json	json		832
+training/concepts/pixart/train_concepts_achillea.json	json		2205
+training/concepts/pixart/train_concepts_carpobrotus.json	json		2216
+training/concepts/pixart/train_concepts_eryngium.json	json		2206
+training/concepts/pixart/train_samples_achillea.json	json		832
+training/concepts/pixart/train_samples_carpobrotus.json	json		832
+training/concepts/pixart/train_samples_eryngium.json	json		832
+training/concepts/qwen/train_concepts_achillea.json	json		2205
+training/concepts/qwen/train_concepts_carpobrotus.json	json		2216
+training/concepts/qwen/train_concepts_eryngium.json	json		2206
+training/concepts/qwen/train_samples_achillea.json	json		832
+training/concepts/qwen/train_samples_carpobrotus.json	json		831
+training/concepts/qwen/train_samples_eryngium.json	json		832
+training/concepts/sdxl/train_concepts_achillea.json	json		2205
+training/concepts/sdxl/train_concepts_carpobrotus.json	json		2216
+training/concepts/sdxl/train_concepts_eryngium.json	json		2206
+training/concepts/sdxl/train_samples_achillea.json	json		832
+training/concepts/sdxl/train_samples_carpobrotus.json	json		832
+training/concepts/sdxl/train_samples_eryngium.json	json		832
+training/configs/flux2/flux2_colab_achillea.json	json		14865
+training/configs/flux2/flux2_colab_carpobrotus.json	json		14880
+training/configs/flux2/flux2_colab_eryngium.json	json		14865
+training/configs/missing.md	md		1640
+training/configs/pixart/pixartsigma_colab_achillea.json	json		14795
+training/configs/pixart/pixartsigma_colab_carpobrotus.json	json		14810
+training/configs/pixart/pixartsigma_colab_eryngium.json	json		14795
+training/configs/qwen/qwen_colab_achillea.json	json		14755
+training/configs/qwen/qwen_colab_carpobrotus.json	json		14770
+training/configs/qwen/qwen_colab_eryngium.json	json		14755
+training/configs/sdxl/sdxl_colab_achillea.json	json		14467
+training/configs/sdxl/sdxl_colab_carpobrotus.json	json		14482
+training/configs/sdxl/sdxl_colab_eryngium.json	json		14467
+training/configs/superseded/flux2_config_generic.json	json		14853
+training/configs/superseded/qwen_config_generic.json	json		14732
+training/configs/superseded/sdxl_config_generic.json	json		14470
+training/exploratory/chroma.ipynb	ipynb	8	346198
+training/exploratory/flux2_old.ipynb	ipynb	9	392990
+training/exploratory/hidream.ipynb	ipynb	9	214826
+training/exploratory/pixart_old.ipynb	ipynb	8	85182
+training/exploratory/qwen_clean_dup.ipynb	ipynb	15	649847
+training/exploratory/qwen_finetune.ipynb	ipynb	24	195186
+training/exploratory/qwen_old.ipynb	ipynb	9	515029
+training/exploratory/sdxl_old.ipynb	ipynb	7	521499
+training/notebooks/flux2.ipynb	ipynb	16	1453041
+training/notebooks/pixart.ipynb	ipynb	12	837582
+training/notebooks/qwen.ipynb	ipynb	14	1000482
+training/notebooks/sdxl.ipynb	ipynb	19	1087956
